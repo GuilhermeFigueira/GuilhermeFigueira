@@ -1,7 +1,7 @@
 # Bem vindo ao meu perfil!
 <div>
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeFigueira&show_icons=true&count_private=true&theme=vue-dark">
-<img align="right" height="150em" width="375em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeFigueira&layout=compact&theme=vue-dark" />
+<img height="200em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeFigueira&show_icons=true&count_private=true&theme=city_lights">
+<img align="right" height="200em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeFigueira&layout=compact&theme=city_lights" />
 </div>
 
 ## Tecnologias que tenho experiência
