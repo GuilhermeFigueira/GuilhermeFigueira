@@ -4,7 +4,7 @@ Principalmente desenvolvedor web full-stack, mas exploro outras áreas de vez em
 
 Gosto de ter várias ideias pra projetos em momentos aleatórios do dia e colocá-las em prática.
 
-Trabalho com [typescript](https://www.typescriptlang.org/), [react](https://react.dev/), [tailwind](https://tailwindcss.com/), [next.js](https://nextjs.org/), [java spring](https://spring.io/), e  com [python](https://www.python.org/).
+Trabalho com typescript, javascript, node.js, react, react-native, tailwind, next.js e com python.
 
 Eventualmente vou fazer um website de portfólio, mas até lá você pode entrar em contato comigo pelo meu [linkedin](https://www.linkedin.com/in/guilherme-de-biazi-figueira-a77aa3250/).
 
